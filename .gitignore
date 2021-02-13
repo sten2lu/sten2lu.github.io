@@ -8,4 +8,7 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+
+# Additional for local Machine
 vendor
+.jekyll-cache

@@ -27,8 +27,8 @@ During my freetime I read about programming, simulations and psychology.
 - Daniel Kahnemann: Thinking, Fast and Slow
 - Hans-Hermann Dubben: Der Hund der Eier legt
 - Idris Shah: Die Weisheit der Narren
-- Macchiavelli: Der Fürst
-- Sun Tzu: Die Kunst des Krieges
+- Macchiavelli: The Prince
+- Sun Tzu: The art of war
 - JRR Tolkien: Lord of the Rings & Silmarillion
 - George R. Martin: A Song of Ice and Fire
 - Patrick Rothfuss: Kingkiller Chronicles
@@ -37,18 +37,26 @@ During my freetime I read about programming, simulations and psychology.
 - Ian Goodfellow: Deep Learning Book -->
 
 ### Things to do
-- Go on a surfing trip in South America
-- Read the complete Feynman Lectures
-- Give a presentation at a conference
-- Run a marathon
-- Release an open source project that thousands of people find useful
-- Perform a piano concert on a stage piano
-- Make Ramen yourself
-- Write a blogpost
-- Get a paper accepted at a big conference
-- Write a song
-- weigh 70 kg for 1 year
-- visit 6 continents
-### Contact me
+- [ ] Go on a surfing trip in South America
+- [ ] Read the complete Feynman Lectures
+- [ ] Give a presentation at a conference
+- [x] Run a half-marathon
+- [ ] Run a marathon
+- [ ] Release an open source project that thousands of people find useful
+- [ ] Perform a piano concert on a stage piano
+- [ ] Make Ramen yourself
+- [x] Write a blogpost
+- [ ] Get a paper accepted at a big conference
+- [ ] Write a song
+- [ ] weigh 70 kg for 1 year
+- [ ] visit 6 continents
+
+### Other Blogs
+ - [Matt Migh](http://matt.might.net/articles/)
+ - [Lilian Weng](https://lilianweng.github.io/lil-log/)
+ - [Zach Holman](https://zachholman.com)
+ - [Jan Altosaar](https://jaan.io/blog/)
+
+<!-- ### Contact me -->
 
 <!-- [email@domain.com](mailto:email@domain.com) -->

@@ -14,8 +14,7 @@ It is so influential that it even got into pop culture. But now while getting se
 - origin: example program in the seminal 1978 book "The C Programming Language"
 - "Time to hello world" or TTHW is used as a measure for ease of use of a programming language
 
-Now this was enough information retrieval from wikipedia for the day. For more I encourage you to visit 
-https://en.wikipedia.org/wiki/%22Hello,_World!%22_program and read more information for yourself about various variations as well as some code snippets. 
+Now this was enough information retrieval from wikipedia for the day. For more I encourage you to visit the [information source](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) every non-academic (and academic uses but refuses to admit it) and read more information for yourself about various variations as well as some code snippets. 
  
 
 
