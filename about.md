@@ -32,6 +32,7 @@ During my freetime I read about programming, simulations and psychology.
 - JRR Tolkien: Lord of the Rings & Silmarillion
 - George R. Martin: A Song of Ice and Fire
 - Patrick Rothfuss: Kingkiller Chronicles
+
 <!-- - Matthias Bartelmann: Theoretische Physik
 - Ian Goodfellow: Deep Learning Book -->
 
