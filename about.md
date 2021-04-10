@@ -43,7 +43,7 @@ And now, writing a blogpost from time to time about things that I happen to thin
 - [ ] Run a marathon
 - [ ] Release an open source project that thousands of people find useful
 - [ ] Perform a piano concert on a stage piano
-- [ ] Make Ramen yourself
+- [x] Make Ramen yourself
 - [x] Write a blogpost
 - [ ] Get a paper accepted at a big conference
 - [x] Give a presentation and get paid for it 
@@ -51,7 +51,7 @@ And now, writing a blogpost from time to time about things that I happen to thin
 - [ ] Weigh 70 kg for 1 year
 - [ ] visit 6 continents
 
-### Other Blogs
+### Inspring Blogs
  - [Matt Might](http://matt.might.net/articles/)
  - [Lilian Weng](https://lilianweng.github.io/lil-log/)
  - [Zach Holman](https://zachholman.com)
