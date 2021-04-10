@@ -7,18 +7,19 @@ In our modern world which is full with distractions or opportunities craving our
 I would describe the act of funneling your attention on one singular purpose as focus.
 
 ## Focus
-Generally I would define focus as concentrating something (e.g. a resource) on a singular objective. What becomes focused and on what objective it is then focused depends on the context. Similar to tho this it is defined in the [oxford dictionary] (https://www.lexico.com/definition/focus )
+Generally I would define focus as concentrating something (e.g. a resource) on a singular objective. What becomes focused and on what objective it is then focused depends on the context. Similar to tho this it is defined in the [oxford dictionary](https://www.lexico.com/definition/focus)
 > 1 The centre of interest or activity.  
 > 
 >   with the example: _‘this generation has made the environment a focus of attention’_
+
 ### But why should anyone bother bundling together resources?
 The general idea behind this approach is that when a  resource is focused on an objective it often allows to achieve things which would not be possible if the ressource were undirected.
 An example of this would be the use of a lens to direct/focus together light to a ‘focal point’ and thereby heating a specific small region of a sheet of paper until it is set ablaze.  
 
 And when we humans want to achieve something, may it be writing an essay, solving a math equation, building a plane or cooking something. It is generally a good idea focus our most valuable resource, our attention on the task at hand.
-But how this is to be done is not always clear, because often there are a lot of variables at play on which you could focus your attention to, especially when tackling bigger projects. So it is This is what I would argue a teacher/mentor is for.
+But how this is to be done is not always clear, because often there are a lot of variables at play on which you could focus your attention to, especially when tackling bigger projects. This is what I would argue a teacher/mentor is for, by setting your focus on a specific task.
 
-At this point we get to the actual event which led to me writing this essay. 
+At this point we get to the actual event which led to me writing this essay. Which is about the importance of focus and that even when you take your time
 You may skip this part if you wish.
 
 ## The Story 
@@ -62,7 +63,7 @@ Focussing your attention on something complex for an extended period of times is
 In almost all cases this hinders your progress and sometimes even dooming your endeavour to fail. 
 So in short it is of paramount importance to focus your attention on very specific areas to allow the focused effect to help you achieve your goals and execute your plans!
 
-But now you may say wait! What about people who are able to code efficiently while testing for bugs or are able to play the piano (2hands) while holding a conversation. 
+But now you may say wait! What about people who are able to code efficiently while testing for bugs or are able to play the piano (with both hands) while holding a conversation. 
 To this I can only refer to my next blog post which is going to be about how to make better use of your attention by focusing it with abstract models and automation.
 
 ## End Note
