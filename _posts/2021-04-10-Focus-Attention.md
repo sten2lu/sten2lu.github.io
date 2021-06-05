@@ -48,6 +48,7 @@ As an divide and conquer algorithm this could be written down as follows:
 3. recall + execute 170 + 70 = 240 -> save
 4. 7 x 7 = 49 -> save
 5. recall + execute 240 + 49 = 289 -> done
+
 This results in the brain having to do some heavy lifting and you may be tempted to reach for pen and paper or your phone. In any case when you solve this in your head, several thinking steps are required to compute the results in difference to the easy first example. (This example is taken from Thinking, Fast and Slow by Daniel Kahnemann)
 Most people have to stop reading and actively solve the equation which is where the attention shifts from reading to computing. So one can safely assume that the processing of information which is closely linked to your attention has some rate. 
 In the cognitive development field of psychology the `information processing theory' uses the measure ‘information processing rate’ in bits/sec to describes how much information the brain can process and set into action at any point in time.
