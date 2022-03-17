@@ -1,115 +1,191 @@
----
----
+% ========================================
+% BibTeX Bibliography for Carsten T. Lüth
+% ========================================
+% This file is used by:
+% 1. al-folio (via jekyll-scholar) for website publications page
+% 2. LaTeX CV generation scripts
+% 3. Reference managers (Zotero, Mendeley, etc.)
+%
+% Special fields for al-folio:
+% - abbr: Conference/journal abbreviation
+% - abstract: Paper abstract (shows in expandable section)
+% - html: Main link (OpenReview, proceedings, etc.)
+% - pdf: Path to PDF (e.g., assets/pdf/paper.pdf)
+% - code: GitHub repository
+% - selected: Set to {true} to pin to top of publications
+% - arxiv: arXiv ID
+% - doi: DOI
+% ========================================
 
-@string{aps = {American Physical Society,}}
+% ========================================
+% EVALUATION FRAMEWORKS & METHODOLOGY
+% ========================================
 
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@inproceedings{guarino2026better,
+  title={Better than Average: Spatially-Aware Aggregation of Segmentation Uncertainty Improves Downstream Performance},
+  author={Guarino, Vincent E and Winklmayr, Clemens and Franzen, Julia and Rumberger, Josef L and Pfeuffer, Maren and Greven, Sonja and Maier-Hein, Klaus H and Kainmueller, Dagmar and Karg, Constantin and Lüth, Carsten T},
+  booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026},
+  note={Equal contribution: Dagmar Kainmueller*, Constantin Karg*, Carsten T. Lüth*},
+  
+  abbr={CVPR},
+  category={evaluation_frameworks, uncertainty_quantification, segmentation},
+  html={},
+  selected={true}
 }
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@article{luth2026finally,
+  title={Finally Outshining the Random Baseline: A Simple and Effective Solution for Active Learning in 3D Biomedical Imaging},
+  author={Lüth, Carsten T and Traub, Jeremias and Kahl, Kim-Celine and Bungert, Till J and Klein, Lukas and Krämer, Lars and Jaeger, Paul F and Maier-Hein, Klaus H and Isensee, Fabian},
+  journal={Transactions on Machine Learning Research (TMLR)},
+  year={2026},
+  note={Equal contribution: Carsten T. Lüth*, Jeremias Traub*},
+  
+  abbr={TMLR},
+  category={evaluation_frameworks, active_learning, segmentation, medical_imaging},
+  html={https://openreview.net/forum?id=UamXueEaYW},
+  arxiv={2601.13677},
+  selected={true}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@article{luth2025nnactive,
+  title={nnActive: A Framework for Evaluation of Active Learning in 3D Biomedical Segmentation},
+  author={Lüth, Carsten T and Traub, Jeremias and Kahl, Kim-Celine and Bungert, Till J and Klein, Lukas and Krämer, Lars and Jaeger, Paul F and Maier-Hein, Klaus H and Isensee, Fabian},
+  journal={Transactions on Machine Learning Research (TMLR)},
+  year={2025},
+  note={Equal contribution: Carsten T. Lüth*, Jeremias Traub*. Compute: 150k A100 GPU hours},
+  
+  abbr={TMLR},
+  category={evaluation_frameworks, active_learning, segmentation, medical_imaging},
+  html={https://openreview.net/forum?id=AJAnmRLJjJ},
+  code={https://github.com/MIC-DKFZ/nnActive},
+  selected={true}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
+@inproceedings{luth2024values,
+  title={ValUES: A Framework for Systematic Validation of Uncertainty Estimation in Semantic Segmentation},
+  author={Lüth, Carsten T and Kahl, Kim-Celine and Zenk, Maximilian and Maier-Hein, Klaus H and Jaeger, Paul F},
+  booktitle={International Conference on Learning Representations (ICLR)},
+  year={2024},
+  note={Oral Presentation (Top 1\%, 46 of 7,262 submissions). Equal contribution: Carsten T. Lüth*, Kim-Celine Kahl*},
+  
+  abbr={ICLR},
+  category={evaluation_frameworks, uncertainty_quantification, active_learning, segmentation, medical_imaging},
+  html={https://openreview.net/forum?id=yV6fD7LYkF},
+  code={https://github.com/IML-DKFZ/values},
   selected={true},
-  inspirehep_id = {3255}
+  award={Oral}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@inproceedings{luth2023navigating,
+  title={Navigating the Pitfalls of Active Learning Evaluation: A Systematic Framework for Meaningful Performance Assessment},
+  author={Lüth, Carsten T and Bungert, Till J and Klein, Lukas and Jaeger, Paul F},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2023},
+  
+  abbr={NeurIPS},
+  category={evaluation_frameworks, active_learning, self-supervised_learning, semi-supervised_learning},
+  html={https://proceedings.neurips.cc/paper_files/paper/2023/hash/1ed4723f12853cbd02aecb8160f5e0c9-Abstract-Conference.html},
+  code={https://github.com/IML-DKFZ/realistic-al},
+  selected={true}
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@inproceedings{jaeger2023call,
+  title={A Call to Reflect on Evaluation Practices for Failure Detection in Image Classification},
+  author={Jaeger, Paul F and Lüth, Carsten T and Klein, Lukas and Bungert, Till J},
+  booktitle={International Conference on Learning Representations (ICLR)},
+  year={2023},
+  note={Oral Presentation (Top 1\% of submissions)},
+  
+  abbr={ICLR},
+  category={evaluation_frameworks, uncertainty_quantification},
+  html={https://openreview.net/forum?id=YnkGMIh0gvX},
+  arxiv={2211.15259},
+  code={https://github.com/IML-DKFZ/fd-shifts},
+  selected={true},
+  award={Oral}
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@inproceedings{traub2024overcoming,
+  title={Overcoming Common Flaws in the Evaluation of Selective Classification Systems},
+  author={Traub, Jeremias and Lüth, Carsten T and Bungert, Till J and Klein, Lukas and Jaeger, Paul F},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2024},
+  note={Spotlight Presentation (Top 5\% of submissions)},
+  
+  abbr={NeurIPS},
+  category={evaluation_frameworks, uncertainty_quantification},
+  html={https://arxiv.org/abs/2407.01032},
+  arxiv={2407.01032},
+  award={Spotlight}
 }
 
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
+% ========================================
+% MEDICAL IMAGING APPLICATIONS
+% ========================================
+
+@inproceedings{luth2023coopd,
+  title={cOOpD: Reformulating COPD Classification on Chest CT Scans as Anomaly Detection Using Contrastive Representations},
+  author={Lüth, Carsten T and Almeida, Silvia D and Norajitra, Tobias and Huynh, Tassilo and Wald, Tessa and Delorme, Stefan and Biederer, Jürgen and Kauczor, Hans-Ulrich and Jäger, Paul F},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
+  year={2023},
+  note={STAR Award. Equal contribution: Carsten T. Lüth*, Silvia D. Almeida*},
+  
+  abbr={MICCAI},
+  category={medical_imaging, self-supervised_learning, generative,},
+  html={https://link.springer.com/chapter/10.1007/978-3-031-43904-9_4},
+  code={https://github.com/MIC-DKFZ/cOOpD},
+  selected={true},
+  award={STAR Award}
 }
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
+% ========================================
+% VISION-LANGUAGE MODELS
+% ========================================
+
+@inproceedings{klein2024interactive,
+  title={Interactive Semantic Interventions for VLMs: A Human-in-the-Loop Investigation of VLM Failure},
+  author={Klein, Lukas and Amara, Khaled and Lüth, Carsten T and Jaeger, Paul F},
+  booktitle={NeurIPS Workshop on Safe Generative AI},
+  year={2024},
+  note={Equal contribution: Lukas Klein*, Khaled Amara*, Carsten T. Lüth*},
+  
+  abbr={NeurIPS WS},
+  category={vlm, uncertainty_quantification},
+  html={https://openreview.net/forum?id=3kMucCYhYN}
+}
+
+% ========================================
+% GENERATIVE MODELING
+% ========================================
+
+@article{ardizzone2019guided,
+  title={Guided Image Generation with Conditional Invertible Neural Networks},
+  author={Ardizzone, Lynton and Lüth, Carsten and Kruse, Jakob and Rother, Carsten and Köthe, Ullrich},
+  journal={arXiv preprint arXiv:1907.02392},
+  year={2019},
+  note={400+ citations},
+  
+  abbr={arXiv},
+  category={generative},
+  html={https://arxiv.org/abs/1907.02392},
+  arxiv={1907.02392}
+}
+
+% ========================================
+% RELATED WORK (Contributed but not author)
+% ========================================
+
+@article{ardizzone2018analyzing,
+  title={Analyzing Inverse Problems with Invertible Neural Networks},
+  author={Ardizzone, Lynton and Kruse, Jakob and Wirkert, Sebastian and Rahner, Daniel and Pellegrini, Eric W and Klessen, Ralf S and Maier-Hein, Lena and Rother, Carsten and Köthe, Ullrich},
+  booktitle={International Conference on Learning Representations (ICLR)},
+  
+  abbr={ICLR},
+  year={2018},
+  note={Research on INN training methods informed this work, 700+ citations},
+  
+  category={related},
+  html={https://openreview.net/forum?id=rJed6j0cKX},
+  arxiv={1808.04730}
 }
