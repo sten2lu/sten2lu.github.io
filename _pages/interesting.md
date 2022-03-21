@@ -37,7 +37,8 @@ nav: true
 
 
 ## Blogs -- that I actually read
- - [Matt Might](http://matt.might.net/articles/)
+ - [Matt Might](http://matt.might.net/articles/) 
  - [Lilian Weng](https://lilianweng.github.io/lil-log/)
  - [Zach Holman](https://zachholman.com)
  - [Jan Altosaar](https://jaan.io/blog/)
+ - [Andrej Karpathy](https://karpathy.github.io) Head of AI at Tesla
