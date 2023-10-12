@@ -15,7 +15,7 @@ footer_text: >
 keywords: machine-learning, information-theory, artificial-intelligence, blog  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: /assets/img/icon.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://sten2lu.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -111,15 +111,6 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-<<<<<<< HEAD
-=======
-contact_note: >
-
-google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
-google_site_verification:  # your google-site-verification ID (Google Search Console)
-bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
-panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
->>>>>>> b3581572 (add mail)
 
 # -----------------------------------------------------------------------------
 # Blog
