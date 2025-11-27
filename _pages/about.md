@@ -26,11 +26,10 @@ selected_papers: True # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a deep learning researcher currently a PhD Student in the Interactive Machine Learning Group at the DKFZ / Helmholtz Imaging headed by [Dr. Paul Jäger](https://pfjaeger.github.io)(DeepMind) and [Heidelberg University](https://www.uni-heidelberg.de/en). Currently, my main area of research is Deep Active Learning, which aims at reducing the annotation effort for supervised training by selecting the most informative samples for annotation. 
-To find these most informative samples, I am also highly interested in uncertainty estimation, generative modeling.
-Further, I believe that the combination of Active Learning with alternate techniques to reduce the amount of annotated data for training algorithms (Semi- and Self-Supervised Learning and Foundation Models) will allow to use the power of deep learning for many small scale projects and research questions.
+I am currently a PhD Student in the [Division of Medical Image Computing at the DKFZ](https://www.dkfz.de/medizinische-bildverarbeitung) / Helmholtz Imaging headed by [Prof. Klaus Maier-Hein](https://scholar.google.com/citations?user=oCrBpVMAAAAJ&hl=de)  previously Interactive Machine Learning Group headed by [Dr. Paul Jäger](https://pfjaeger.github.io)(now at DeepMind) and [Heidelberg University](https://www.uni-heidelberg.de/en). My main area of research is Deep Active Learning, which aims at reducing the annotation effort for supervised training by selecting the most informative samples for annotation. 
+As finding these informative simples requires uncertainty estimation and potentially even generating them requires generative modeling, I am highly interested in these research topics too.
 
-On the side, I am one of the organizers of [heidelberg.ai](https://heidelberg.ai),  a community with over 2700 members on [meetup](https://www.meetup.com/heidelberg-artificial-intelligence-meetup/?eventOrigin=home_groups_you_organize), where we host events to encourage scientific discussions about artificial intelligence.
+On the side, I am one of the organizers of [heidelberg.ai](https://heidelberg.ai),  a community with over 3000 members on [meetup](https://www.meetup.com/heidelberg-artificial-intelligence-meetup/?eventOrigin=home_groups_you_organize), where we host events to encourage scientific discussions about artificial intelligence.
 
 Further, I have past working experiences and am still interested in the fields of Deep Generative Methods and Anomaly Detection.
 Until recently, I studied physics at the University of Heidelberg, focusing on Computational Physics.
@@ -40,6 +39,7 @@ Generally, I like to read widely because: “You never know what you don’t kno
 Also, during my free time, I never let a chance pass by to entertain myself with some fiction, just to let my imagination run wild. Whenever I am neither reading nor working, I do something like wakeboarding, bouldering, playing piano, cooking, meeting friends, or programming.
 
 I also maintain an occasional blog—feel free to check it out and explore my thoughts and insights on various subjects.
+
 Thank you for visiting my page, and I look forward to connecting and sharing ideas with you.
 
 <br>
