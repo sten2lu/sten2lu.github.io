@@ -26,20 +26,14 @@ selected_papers: True # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a PhD Student in the [Division of Medical Image Computing at the DKFZ](https://www.dkfz.de/medizinische-bildverarbeitung) / Helmholtz Imaging headed by [Prof. Klaus Maier-Hein](https://scholar.google.com/citations?user=oCrBpVMAAAAJ&hl=de)  previously Interactive Machine Learning Group headed by [Dr. Paul Jäger](https://pfjaeger.github.io)(now at DeepMind) and [Heidelberg University](https://www.uni-heidelberg.de/en). My main area of research is Deep Active Learning, which aims at reducing the annotation effort for supervised training by selecting the most informative samples for annotation. 
-As finding these informative simples requires uncertainty estimation and potentially even generating them requires generative modeling, I am highly interested in these research topics too.
+I'm finishing my PhD at the [Division of Medical Image Computing at DKFZ](https://www.dkfz.de/medizinische-bildverarbeitung) / Helmholtz Imaging (defense: April 2026), supervised by [Prof. Klaus Maier-Hein](https://scholar.google.com/citations?user=oCrBpVMAAAAJ&hl=de) and [Dr. Paul Jaeger](https://pfjaeger.github.io) (Google DeepMind).
 
-On the side, I am one of the organizers of [heidelberg.ai](https://heidelberg.ai),  a community with over 3000 members on [meetup](https://www.meetup.com/heidelberg-artificial-intelligence-meetup/?eventOrigin=home_groups_you_organize), where we host events to encourage scientific discussions about artificial intelligence.
+The throughline of my research is a simple question: *are we actually measuring what we think we're measuring?* This has taken me through Active Learning, Uncertainty Estimation, and Selective Classification — always asking whether the evaluation practices the field relies on are telling us the truth. The answer is often no, and I try to do something about it. This work has been recognized with 2 ICLR Oral presentations, a NeurIPS Spotlight, and a MICCAI STAR Award (~700 citations total).
 
-Further, I have past working experiences and am still interested in the fields of Deep Generative Methods and Anomaly Detection.
-Until recently, I studied physics at the University of Heidelberg, focusing on Computational Physics.
+The most concrete expression of this is **nnActive** — the largest benchmark for Active Learning in 3D biomedical segmentation (~150k A100 GPU hours), built on top of **[nnU-Net](https://github.com/MIC-DKFZ/nnUNet)**, the segmentation framework I help maintain (8k+ stars, 3,000+ active users worldwide).
 
-Generally, I like to read widely because: “You never know what you don’t know”. But Deep Learning, Physics, Psychology, Programming, and Statistics have captured my mind for a long time.
+I also organize **[heidelberg.ai](https://heidelberg.ai)**, a community of 3,000+ AI practitioners in Heidelberg. We've hosted talks from the teams behind Stable Diffusion, AlphaFold, and Aleph Alpha, and I'm proud of the space we've built for genuine scientific exchange.
 
-Also, during my free time, I never let a chance pass by to entertain myself with some fiction, just to let my imagination run wild. Whenever I am neither reading nor working, I do something like wakeboarding, bouldering, playing piano, cooking, meeting friends, or programming.
-
-I also maintain an occasional blog—feel free to check it out and explore my thoughts and insights on various subjects.
-
-Thank you for visiting my page, and I look forward to connecting and sharing ideas with you.
+On a personal note: I read widely (fiction, statistics, psychology — in no particular order), and outside of work I boulder, play piano, cook, and spend time with friends.
 
 <br>
