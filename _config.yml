@@ -10,8 +10,8 @@ contact_note:
 email: lth.carsten@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD Student @ Heidelberg University & Division of Medical Image Computing & Helmholtz Imaging
-footer_text: >
-  Work in Progress...
+footer_text: > # the ">" symbol means to ignore newlines until the next key
+  This is a personal website. All opinions expressed here are my own and do not represent the views of my employer or any other organization.
 keywords: machine-learning, information-theory, artificial-intelligence, blog  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
