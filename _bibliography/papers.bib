@@ -23,13 +23,14 @@
 
 @inproceedings{guarino2026better,
   title={Better than Average: Spatially-Aware Aggregation of Segmentation Uncertainty Improves Downstream Performance},
-  author={Guarino, Vincent E and Winklmayr, Clemens and Franzen, Julia and Rumberger, Josef L and Pfeuffer, Maren and Greven, Sonja and Maier-Hein, Klaus H and Kainmueller, Dagmar and Karg, Constantin and Lüth, Carsten T},
+  author={Guarino, Vanessa E and Winklmayr, Claudia and Franzen, Jannik and Rumberger, Josef L and Pfeuffer, Manuel and Greven, Sonja and Maier-Hein, Klaus H and Kainmueller, Dagmar and Karg, Christoph and Lüth, Carsten T},
   booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2026},
-  note={Equal contribution: Dagmar Kainmueller*, Constantin Karg*, Carsten T. Lüth*},
-  
+  note={Equal contribution: D Kainmueller*, C Karg*, CT Lüth*},
+  tldr={Evaluation and benchmark of aggregation strategies for segmentation uncertainty and proposal of a meta-aggregation strategy with reliably strong performance.},
   abbr={CVPR},
-  category={evaluation_frameworks, uncertainty_quantification, segmentation},
+  category={evaluation_frameworks},
+  keywords={evaluation_frameworks, uncertainty_quantification, segmentation},
   html={},
   selected={true}
 }
@@ -39,10 +40,12 @@
   author={Lüth, Carsten T and Traub, Jeremias and Kahl, Kim-Celine and Bungert, Till J and Klein, Lukas and Krämer, Lars and Jaeger, Paul F and Maier-Hein, Klaus H and Isensee, Fabian},
   journal={Transactions on Machine Learning Research (TMLR)},
   year={2026},
-  note={Equal contribution: Carsten T. Lüth*, Jeremias Traub*},
+  note={Equal contribution: CT Lüth*, J Traub*},
+  tldr={Active learning method integration into nnActive which reduces annotation effort for 3D biomedical segmentation on the nnActive benchmark as well as in simulated roll-out studies.},
   
   abbr={TMLR},
-  category={evaluation_frameworks, active_learning, segmentation, medical_imaging},
+  category={evaluation_frameworks},
+  keywords={evaluation_frameworks, active_learning, segmentation, medical_imaging},
   html={https://openreview.net/forum?id=UamXueEaYW},
   arxiv={2601.13677},
   selected={true}
@@ -53,10 +56,12 @@
   author={Lüth, Carsten T and Traub, Jeremias and Kahl, Kim-Celine and Bungert, Till J and Klein, Lukas and Krämer, Lars and Jaeger, Paul F and Maier-Hein, Klaus H and Isensee, Fabian},
   journal={Transactions on Machine Learning Research (TMLR)},
   year={2025},
-  note={Equal contribution: Carsten T. Lüth*, Jeremias Traub*. Compute: 150k A100 GPU hours},
+  note={Equal contribution: CT Lüth*, J Traub*. Compute: 150k A100 GPU hours},
+  tldr={Evaluation framework for active learning in 3D biomedical segmentation that integrates into nnU-Net and partial annotations allowing for largest study of 3D biomedical segmentation with 150k GPU hours as well as analysis of results.},
   
   abbr={TMLR},
-  category={evaluation_frameworks, active_learning, segmentation, medical_imaging},
+  category={evaluation_frameworks},
+  keywords={evaluation_frameworks, active_learning, segmentation, medical_imaging},
   html={https://openreview.net/forum?id=AJAnmRLJjJ},
   code={https://github.com/MIC-DKFZ/nnActive},
   selected={true}
@@ -67,10 +72,12 @@
   author={Lüth, Carsten T and Kahl, Kim-Celine and Zenk, Maximilian and Maier-Hein, Klaus H and Jaeger, Paul F},
   booktitle={International Conference on Learning Representations (ICLR)},
   year={2024},
-  note={Oral Presentation (Top 1\%, 46 of 7,262 submissions). Equal contribution: Carsten T. Lüth*, Kim-Celine Kahl*},
+  note={Oral Presentation (Top 1\% of submissions). Equal contribution: CT Lüth*, KC Kahl*},
+  tldr={Evaluation framework and benchmark or uncertainty estimation that explitly evalutes common assumptions in the field that cleared up conflicting results in the literature.},
   
   abbr={ICLR},
-  category={evaluation_frameworks, uncertainty_quantification, active_learning, segmentation, medical_imaging},
+  category={evaluation_frameworks},
+  keywords={evaluation_frameworks, uncertainty_quantification, active_learning, segmentation, medical_imaging},
   html={https://openreview.net/forum?id=yV6fD7LYkF},
   code={https://github.com/IML-DKFZ/values},
   selected={true},
@@ -82,10 +89,12 @@
   author={Lüth, Carsten T and Bungert, Till J and Klein, Lukas and Jaeger, Paul F},
   booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2023},
+  tldr={Evaluation framework and benchmark for active learning to obtain generalizable insights, by explicitly evaluating self-supervised and semi-supervised learning amongst other things.},
   
   abbr={NeurIPS},
-  category={evaluation_frameworks, active_learning, self-supervised_learning, semi-supervised_learning},
-  html={https://proceedings.neurips.cc/paper_files/paper/2023/hash/1ed4723f12853cbd02aecb8160f5e0c9-Abstract-Conference.html},
+  category={evaluation_frameworks},
+  keywords={evaluation_frameworks, active_learning, self-supervised_learning, semi-supervised_learning},
+  html={https://openreview.net/forum?id=Dqn715Txgl},
   code={https://github.com/IML-DKFZ/realistic-al},
   selected={true}
 }
@@ -96,9 +105,11 @@
   booktitle={International Conference on Learning Representations (ICLR)},
   year={2023},
   note={Oral Presentation (Top 1\% of submissions)},
+  tldr={Evaluation framework and benchmark for failure detection that overarches OoD detection, selective classification, uncertainty quantification and misclassification detection.},
   
   abbr={ICLR},
-  category={evaluation_frameworks, uncertainty_quantification},
+  category={evaluation_frameworks},
+  keywords={evaluation_frameworks, uncertainty_quantification},
   html={https://openreview.net/forum?id=YnkGMIh0gvX},
   arxiv={2211.15259},
   code={https://github.com/IML-DKFZ/fd-shifts},
@@ -108,51 +119,154 @@
 
 @inproceedings{traub2024overcoming,
   title={Overcoming Common Flaws in the Evaluation of Selective Classification Systems},
-  author={Traub, Jeremias and Lüth, Carsten T and Bungert, Till J and Klein, Lukas and Jaeger, Paul F},
+  author={Traub, Jeremias and Bungert, Till J and Lüth, Carsten T and Baumgartner, Michael and Maier-Hein, Klaus H and Maier-Hein, Lena and J{\"a}ger, Paul F},
   booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2024},
   note={Spotlight Presentation (Top 5\% of submissions)},
+  tldr={Evaluation metric for selective classification that reduces influence of label noise.},
   
   abbr={NeurIPS},
-  category={evaluation_frameworks, uncertainty_quantification},
-  html={https://arxiv.org/abs/2407.01032},
+  category={evaluation_frameworks},
+  keywords={evaluation_frameworks, uncertainty_quantification},
+  html={https://openreview.net/forum?id=2TktDpGqNM},
+  code={https://github.com/IML-DKFZ/fd-shifts},
   arxiv={2407.01032},
-  award={Spotlight}
+  award={Spotlight},
+  selected={true},
+}
+
+@inproceedings{klein2024navigating,
+  title={Navigating the maze of explainable ai: A systematic approach to evaluating methods and metrics},
+  author={Klein, Lukas and Lüth, Carsten and Schlegel, Udo and Bungert, Till and El-Assady, Mennatallah and Jäger, Paul},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  abbr={NeurIPS},
+  tldr={},
+  category={evaluation_frameworks},
+  keywords={evaluation_frameworks, explainable_ai},
+  html={https://openreview.net/forum?id=HRkwnZewLC},
+  arxiv={2409.16756},
+  year={2024}
 }
 
 % ========================================
 % MEDICAL IMAGING APPLICATIONS
 % ========================================
 
+@inproceedings{luth2023contrastive,
+  title={CRADL: Contrastive Representations for Unsupervised Anomaly Detection and Localization},
+  author={Lüth, Carsten T and Zimmerer, David and Koehler, Gregor and Jaeger, Paul F and Isenensee, Fabian and Maier-Hein, Klaus H},
+  booktitle={BVM Workshop},
+  category={medical_imaging},
+  keywords={medical_imaging, self-supervised_learning, generative, anomaly_detection},
+  html={https://link.springer.com/chapter/10.1007/978-3-658-41657-7_54},
+  year={2023},
+  arxiv={2301.02126}
+}
+
+@article{almeida2024prediction,
+  title={Prediction of disease severity in COPD: a deep learning approach for anomaly-based quantitative assessment of chest CT},
+  author={Almeida, Silvia D and Norajitra, Tobias and Lüth, Carsten T and Wald, Tassilo and Weru, Vivienn and Nolden, Marco and J{\"a}ger, Paul F and von Stackelberg, Oyunbileg and Heu{\ss}el, Claus Peter and Weinheimer, Oliver and others},
+  journal={European radiology},
+  category={medical_imaging},
+  keywords={medical_imaging,anomaly_detection},
+  keywords={evaluation_frameworks, , self-supervised_learning, generative, anomaly_detection},
+  html={https://link.springer.com/article/10.1007/s00330-023-10540-3},
+  year={2024},
+  skip={true}
+}
+
+@article{almeida2024capturing,
+  title={Capturing COPD heterogeneity: anomaly detection and parametric response mapping comparison for phenotyping on chest computed tomography},
+  author={Almeida, Silvia D and Norajitra, Tobias and Lüth, Carsten T and Wald, Tassilo and Weru, Vivienn and Nolden, Marco and J{\"a}ger, Paul F and von Stackelberg, Oyunbileg and Heu{\ss}el, Claus Peter and Weinheimer, Oliver and others},
+  journal={Frontiers in Medicine},
+  category={medical_imaging},
+  keywords={medical_imaging,anomaly_detection},
+  html={https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1360706/full},
+  year={2024},
+  skip={true}
+}
+
+@article{almeida2024deep,
+  title={How do deep-learning models generalize across populations? Cross-ethnicity generalization of COPD detection},
+  author={Almeida, Silvia D and Norajitra, Tobias and Lüth, Carsten T and Wald, Tassilo and Weru, Vivienn and Nolden, Marco and Jäger, Paul F and von Stackelberg, Oyunbileg and Heu{\ss}el, Claus Peter and Weinheimer, Oliver and others},
+  journal={Insights into Imaging},
+  category={medical_imaging},
+  keywords={medical_imaging,anomaly_detection},
+  html={https://link.springer.com/article/10.1186/s13244-024-01781-x},
+  year={2024},
+  publisher={Springer},
+  skip={true}
+}
+
 @inproceedings{luth2023coopd,
   title={cOOpD: Reformulating COPD Classification on Chest CT Scans as Anomaly Detection Using Contrastive Representations},
-  author={Lüth, Carsten T and Almeida, Silvia D and Norajitra, Tobias and Huynh, Tassilo and Wald, Tessa and Delorme, Stefan and Biederer, Jürgen and Kauczor, Hans-Ulrich and Jäger, Paul F},
+  author={Lüth, Carsten T and Almeida, Silvia D and Norajitra, Tobias and Wald, Tassilo and Nolden, Marco and J{\"a}ger, Paul F and Heussel, Claus P and Biederer, J{\"u}rgen and Weinheimer, Oliver and Maier-Hein, Klaus H},
   booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
   year={2023},
-  note={STAR Award. Equal contribution: Carsten T. Lüth*, Silvia D. Almeida*},
-  
+  note={STAR Award. Equal contribution: CT Lüth*, SD Almeida*},
+  tldr={Treating COPD classification as anomaly detection and showing that it outperforms traditional classification approaches.},
   abbr={MICCAI},
-  category={medical_imaging, self-supervised_learning, generative,},
+  category={medical_imaging},
+  keywords={medical_imaging, self-supervised_learning, generative, anomaly_detection},
   html={https://link.springer.com/chapter/10.1007/978-3-031-43904-9_4},
   code={https://github.com/MIC-DKFZ/cOOpD},
   selected={true},
   award={STAR Award}
 }
 
+@inproceedings{zimmerer2022unsupervised,
+  title={Unsupervised anomaly detection in the wild},
+  author={Zimmerer, David and Paech, Daniel and Lüth, Carsten T and Petersen, Jens and K{\"o}hler, Gregor and Maier-Hein, Klaus},
+  booktitle={BVM Workshop},
+  year={2022},
+  html={https://link.springer.com/chapter/10.1007/978-3-031-43904-9_4},
+  category={medical_imaging},
+  keywords={medical_imaging, self-supervised_learning, generative, anomaly_detection},
+}
+
 % ========================================
 % VISION-LANGUAGE MODELS
 % ========================================
 
+@article{kahl2024sure,
+  title={SURE-VQA: Systematic Understanding of Robustness Evaluation in Medical VQA Tasks},
+  author={Kahl, Kim-Celine and Erkan, Selen and Traub, Jeremias and Lüth, Carsten T and Maier-Hein, Klaus and Maier-Hein, Lena and Jaeger, Paul F},
+  journal={Transactions on Machine Learning Research (TMLR)},
+  abbr={TMLR},
+  category={vlm},
+  keywords={vlm, evaluation_frameworks, medical_imaging},
+  tldr={Evaluating VLMs and their uncertainty estimates on real-world medical VQA tasks.},
+
+  arxiv={2411.19688},
+  year={2024},
+  html={https://openreview.net/forum?id=qjNdGpgpV8}
+}
+
+@article{amara2024context,
+  title={Why context matters in vqa and reasoning: Semantic interventions for vlm input modalities},
+  author={Amara, Kenza and Klein, Lukas and Lüth, Carsten T and J{\"a}ger, Paul and Strobelt, Hendrik and El-Assady, Mennatallah},
+  journal={arXiv},
+  year={2024},
+  tldr={Analysis of the impact of different input modalities on VLM performance and uncertainty estimates using semantic interventions},
+
+  category={vlm},
+  keywords={vlm, human_in_the_loop, evaluation_frameworks},
+  arxiv={2410.01690},
+  html={https://arxiv.org/abs/2410.01690}
+}
+
 @inproceedings{klein2024interactive,
   title={Interactive Semantic Interventions for VLMs: A Human-in-the-Loop Investigation of VLM Failure},
-  author={Klein, Lukas and Amara, Khaled and Lüth, Carsten T and Jaeger, Paul F},
+  author={Lüth, Carsten T and Klein, Lukas and Amara, Kenza and Jaeger, Paul F},
   booktitle={NeurIPS Workshop on Safe Generative AI},
   year={2024},
-  note={Equal contribution: Lukas Klein*, Khaled Amara*, Carsten T. Lüth*},
-  
+  note={Equal contribution: L Klein*, K Amara*, CT Lüth*},
+  tldr={A tool for human-in-the-loop evaluation of VLMs allowing failure analysis and uncertainty estimation.},
   abbr={NeurIPS WS},
-  category={vlm, uncertainty_quantification},
-  html={https://openreview.net/forum?id=3kMucCYhYN}
+  category={vlm},
+  keywords={vlm, human_in_the_loop, evaluation_frameworks},
+  html={https://openreview.net/forum?id=3kMucCYhYN},
+  selected={true}
 }
 
 % ========================================
@@ -161,11 +275,11 @@
 
 @article{ardizzone2019guided,
   title={Guided Image Generation with Conditional Invertible Neural Networks},
-  author={Ardizzone, Lynton and Lüth, Carsten and Kruse, Jakob and Rother, Carsten and Köthe, Ullrich},
+  author={Ardizzone, Lynton and Lüth, Carsten T and Kruse, Jakob and Rother, Carsten and Köthe, Ullrich},
   journal={arXiv preprint arXiv:1907.02392},
   year={2019},
   note={400+ citations},
-  
+  tldr={Proposing the cINN architecture and showcasing its scalability to complex image generation whilst retatining exact likelihood computation.},
   abbr={arXiv},
   category={generative},
   html={https://arxiv.org/abs/1907.02392},
@@ -186,6 +300,7 @@
   note={My research on INN training methods during my time as student researcher informed this work. 700+ citations},
   
   category={related},
+  keywords={generative},
   html={https://openreview.net/forum?id=rJed6j0cKX},
   arxiv={1808.04730}
 }

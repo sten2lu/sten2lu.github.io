@@ -4,12 +4,12 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Carsten
-middle_name: T.
+middle_name: T
 last_name: Lüth
 contact_note: 
 email: lth.carsten@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD Student @ Heidelberg University & Division of Medical Image Computing
+  PhD Student @ Heidelberg University & Division of Medical Image Computing & Helmholtz Imaging
 footer_text: >
   Work in Progress...
 keywords: machine-learning, information-theory, artificial-intelligence, blog  # add your own keywords or leave empty
@@ -178,7 +178,7 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
