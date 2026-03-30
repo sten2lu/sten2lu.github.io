@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-27'
+  last_updated: '2026-03-30'
 papers:
   3L6NkggAAAAJ:0EnyYjriUFMC:
     citations: 30
@@ -18,7 +18,7 @@ papers:
     title: 'Why context matters in vqa and reasoning: Semantic interventions for vlm input modalities'
     year: '2024'
   3L6NkggAAAAJ:5nxA0vEk-isC:
-    citations: 35
+    citations: 36
     title: 'ValUES: A Framework for Systematic Validation of Uncertainty Estimation in Semantic Segmentation'
     year: '2024'
   3L6NkggAAAAJ:8k81kl-MbHgC:
@@ -66,7 +66,7 @@ papers:
     title: Overcoming Common Flaws in the Evaluation of Selective Classification Systems
     year: '2024'
   3L6NkggAAAAJ:_kc_bZDykSQC:
-    citations: 26
+    citations: 28
     title: 'Navigating the Maze of Explainable AI: A Systematic Approach to Evaluating Methods and Metrics'
     year: '2024'
   3L6NkggAAAAJ:aqlVkmm33-oC:
@@ -94,7 +94,7 @@ papers:
     title: 'Interactive Semantic Interventions for VLMs: Breaking VLMs with Human Ingenuity'
     year: Unknown Year
   3L6NkggAAAAJ:qjMakFHDy7sC:
-    citations: 483
+    citations: 484
     title: Guided image generation with conditional invertible neural networks
     year: '2019'
   3L6NkggAAAAJ:qxL8FJ1GzNcC:
