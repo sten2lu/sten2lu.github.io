@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-01'
 papers:
   3L6NkggAAAAJ:0EnyYjriUFMC:
     citations: 30
@@ -94,7 +94,7 @@ papers:
     title: 'Interactive Semantic Interventions for VLMs: Breaking VLMs with Human Ingenuity'
     year: Unknown Year
   3L6NkggAAAAJ:qjMakFHDy7sC:
-    citations: 484
+    citations: 483
     title: Guided image generation with conditional invertible neural networks
     year: '2019'
   3L6NkggAAAAJ:qxL8FJ1GzNcC:
