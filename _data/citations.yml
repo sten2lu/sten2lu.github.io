@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-08'
 papers:
   3L6NkggAAAAJ:0EnyYjriUFMC:
     citations: 30
     title: 'Prediction of disease severity in COPD: a deep learning approach for anomaly-based quantitative assessment of chest CT'
     year: '2024'
   3L6NkggAAAAJ:3fE2CSJIrl8C:
-    citations: 9
+    citations: 10
     title: 'Capturing COPD heterogeneity: anomaly detection and parametric response mapping comparison for phenotyping on chest computed tomography'
     year: '2024'
   3L6NkggAAAAJ:4DMP91E08xMC:
@@ -18,7 +18,7 @@ papers:
     title: 'Why context matters in vqa and reasoning: Semantic interventions for vlm input modalities'
     year: '2024'
   3L6NkggAAAAJ:5nxA0vEk-isC:
-    citations: 36
+    citations: 37
     title: 'ValUES: A Framework for Systematic Validation of Uncertainty Estimation in Semantic Segmentation'
     year: '2024'
   3L6NkggAAAAJ:8k81kl-MbHgC:
@@ -62,7 +62,7 @@ papers:
     title: How do deep-learning models generalize across populations? Cross-ethnicity generalization of COPD detection
     year: '2024'
   3L6NkggAAAAJ:Zph67rFs4hoC:
-    citations: 13
+    citations: 14
     title: Overcoming Common Flaws in the Evaluation of Selective Classification Systems
     year: '2024'
   3L6NkggAAAAJ:_kc_bZDykSQC:
@@ -82,7 +82,7 @@ papers:
     title: Probabilistic modeling of COPD imaging characteristics for disease severity prediction
     year: '2022'
   3L6NkggAAAAJ:hqOjcs7Dif8C:
-    citations: 35
+    citations: 36
     title: 'Navigating the pitfalls of active learning evaluation: A systematic framework for meaningful performance assessment'
     year: '2023'
   3L6NkggAAAAJ:kNdYIx-mwKoC:
@@ -102,7 +102,7 @@ papers:
     title: 'Interactive Semantic Interventions for VLMs: A Causality-Inspired Investigation of VLM Failures'
     year: Unknown Year
   3L6NkggAAAAJ:ufrVoPGSRksC:
-    citations: 77
+    citations: 78
     title: A call to reflect on evaluation practices for failure detection in image classification
     year: '2022'
   3L6NkggAAAAJ:zYLM7Y9cAGgC:
