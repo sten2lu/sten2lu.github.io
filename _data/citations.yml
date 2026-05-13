@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-13'
 papers:
   3L6NkggAAAAJ:0EnyYjriUFMC:
     citations: 31
     title: 'Prediction of disease severity in COPD: a deep learning approach for anomaly-based quantitative assessment of chest CT'
     year: '2024'
   3L6NkggAAAAJ:3fE2CSJIrl8C:
-    citations: 10
+    citations: 11
     title: 'Capturing COPD heterogeneity: anomaly detection and parametric response mapping comparison for phenotyping on chest computed tomography'
     year: '2024'
   3L6NkggAAAAJ:4DMP91E08xMC:
@@ -50,7 +50,7 @@ papers:
     title: How do deep-learning models generalize across populations? Cross-ethnicity generalization of COPD detection
     year: '2024'
   3L6NkggAAAAJ:UebtZRa9Y70C:
-    citations: 13
+    citations: 14
     title: 'cOOpD: reformulating COPD classification on chest CT scans as anomaly detection using contrastive representations'
     year: '2023'
   3L6NkggAAAAJ:WF5omc3nYNoC:
@@ -62,7 +62,7 @@ papers:
     title: How do deep-learning models generalize across populations? Cross-ethnicity generalization of COPD detection
     year: '2024'
   3L6NkggAAAAJ:Zph67rFs4hoC:
-    citations: 18
+    citations: 20
     title: Overcoming Common Flaws in the Evaluation of Selective Classification Systems
     year: '2024'
   3L6NkggAAAAJ:_kc_bZDykSQC:
@@ -81,6 +81,10 @@ papers:
     citations: 0
     title: Probabilistic modeling of COPD imaging characteristics for disease severity prediction
     year: '2022'
+  3L6NkggAAAAJ:hC7cP41nSMkC:
+    citations: 0
+    title: Translating Active Learning from Theory to Praxis for 3D Biomedical Segmentation
+    year: '2026'
   3L6NkggAAAAJ:hqOjcs7Dif8C:
     citations: 36
     title: 'Navigating the pitfalls of active learning evaluation: A systematic framework for meaningful performance assessment'
@@ -93,8 +97,12 @@ papers:
     citations: 0
     title: 'Interactive Semantic Interventions for VLMs: Breaking VLMs with Human Ingenuity'
     year: Unknown Year
+  3L6NkggAAAAJ:qUcmZB5y_30C:
+    citations: 0
+    title: 122 LungVis1. 0 enables AI-enhanced, high-resolution dosimetry and biokinetics studies in the lung
+    year: '2026'
   3L6NkggAAAAJ:qjMakFHDy7sC:
-    citations: 492
+    citations: 494
     title: Guided image generation with conditional invertible neural networks
     year: '2019'
   3L6NkggAAAAJ:qxL8FJ1GzNcC:
@@ -102,7 +110,7 @@ papers:
     title: 'Interactive Semantic Interventions for VLMs: A Causality-Inspired Investigation of VLM Failures'
     year: Unknown Year
   3L6NkggAAAAJ:ufrVoPGSRksC:
-    citations: 80
+    citations: 81
     title: A call to reflect on evaluation practices for failure detection in image classification
     year: '2022'
   3L6NkggAAAAJ:zYLM7Y9cAGgC:
