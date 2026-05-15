@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-15'
 papers:
   3L6NkggAAAAJ:0EnyYjriUFMC:
-    citations: 31
+    citations: 30
     title: 'Prediction of disease severity in COPD: a deep learning approach for anomaly-based quantitative assessment of chest CT'
     year: '2024'
   3L6NkggAAAAJ:3fE2CSJIrl8C:
@@ -54,7 +54,7 @@ papers:
     title: 'cOOpD: reformulating COPD classification on chest CT scans as anomaly detection using contrastive representations'
     year: '2023'
   3L6NkggAAAAJ:WF5omc3nYNoC:
-    citations: 11
+    citations: 12
     title: Contrastive representations for unsupervised anomaly detection and localization
     year: '2023'
   3L6NkggAAAAJ:ZeXyd9-uunAC:
@@ -90,7 +90,7 @@ papers:
     title: 'Navigating the pitfalls of active learning evaluation: A systematic framework for meaningful performance assessment'
     year: '2023'
   3L6NkggAAAAJ:kNdYIx-mwKoC:
-    citations: 12
+    citations: 11
     title: Embarrassingly simple scribble supervision for 3D medical segmentation
     year: '2024'
   3L6NkggAAAAJ:mVmsd5A6BfQC:
@@ -102,7 +102,7 @@ papers:
     title: 122 LungVis1. 0 enables AI-enhanced, high-resolution dosimetry and biokinetics studies in the lung
     year: '2026'
   3L6NkggAAAAJ:qjMakFHDy7sC:
-    citations: 494
+    citations: 497
     title: Guided image generation with conditional invertible neural networks
     year: '2019'
   3L6NkggAAAAJ:qxL8FJ1GzNcC:
