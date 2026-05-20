@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-05-20'
 papers:
   3L6NkggAAAAJ:0EnyYjriUFMC:
-    citations: 30
+    citations: 32
     title: 'Prediction of disease severity in COPD: a deep learning approach for anomaly-based quantitative assessment of chest CT'
     year: '2024'
   3L6NkggAAAAJ:3fE2CSJIrl8C:
@@ -102,7 +102,7 @@ papers:
     title: 122 LungVis1. 0 enables AI-enhanced, high-resolution dosimetry and biokinetics studies in the lung
     year: '2026'
   3L6NkggAAAAJ:qjMakFHDy7sC:
-    citations: 497
+    citations: 499
     title: Guided image generation with conditional invertible neural networks
     year: '2019'
   3L6NkggAAAAJ:qxL8FJ1GzNcC:
