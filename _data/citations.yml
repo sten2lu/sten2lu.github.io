@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-06-05'
 papers:
   3L6NkggAAAAJ:0EnyYjriUFMC:
-    citations: 32
+    citations: 36
     title: 'Prediction of disease severity in COPD: a deep learning approach for anomaly-based quantitative assessment of chest CT'
     year: '2024'
   3L6NkggAAAAJ:3fE2CSJIrl8C:
@@ -18,7 +18,7 @@ papers:
     title: 'Why context matters in vqa and reasoning: Semantic interventions for vlm input modalities'
     year: '2024'
   3L6NkggAAAAJ:5nxA0vEk-isC:
-    citations: 39
+    citations: 41
     title: 'ValUES: A Framework for Systematic Validation of Uncertainty Estimation in Semantic Segmentation'
     year: '2024'
   3L6NkggAAAAJ:8k81kl-MbHgC:
@@ -58,11 +58,11 @@ papers:
     title: Contrastive representations for unsupervised anomaly detection and localization
     year: '2023'
   3L6NkggAAAAJ:ZeXyd9-uunAC:
-    citations: 7
+    citations: 8
     title: How do deep-learning models generalize across populations? Cross-ethnicity generalization of COPD detection
     year: '2024'
   3L6NkggAAAAJ:Zph67rFs4hoC:
-    citations: 20
+    citations: 22
     title: Overcoming Common Flaws in the Evaluation of Selective Classification Systems
     year: '2024'
   3L6NkggAAAAJ:_kc_bZDykSQC:
@@ -86,7 +86,7 @@ papers:
     title: Translating Active Learning from Theory to Praxis for 3D Biomedical Segmentation
     year: '2026'
   3L6NkggAAAAJ:hqOjcs7Dif8C:
-    citations: 36
+    citations: 37
     title: 'Navigating the pitfalls of active learning evaluation: A systematic framework for meaningful performance assessment'
     year: '2023'
   3L6NkggAAAAJ:kNdYIx-mwKoC:
@@ -110,7 +110,7 @@ papers:
     title: 'Interactive Semantic Interventions for VLMs: A Causality-Inspired Investigation of VLM Failures'
     year: Unknown Year
   3L6NkggAAAAJ:ufrVoPGSRksC:
-    citations: 81
+    citations: 83
     title: A call to reflect on evaluation practices for failure detection in image classification
     year: '2022'
   3L6NkggAAAAJ:zYLM7Y9cAGgC:
