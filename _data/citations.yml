@@ -1,8 +1,12 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-24'
 papers:
+  3L6NkggAAAAJ:-f6ydRqryjwC:
+    citations: 0
+    title: Physics-IQ Verified
+    year: '2026'
   3L6NkggAAAAJ:0EnyYjriUFMC:
-    citations: 36
+    citations: 40
     title: 'Prediction of disease severity in COPD: a deep learning approach for anomaly-based quantitative assessment of chest CT'
     year: '2024'
   3L6NkggAAAAJ:3fE2CSJIrl8C:
@@ -14,7 +18,7 @@ papers:
     title: 'Interactive Semantic Interventions for VLMs: A Human-in-the-Loop Approach to Interpretability'
     year: Unknown Year
   3L6NkggAAAAJ:4TOpqqG69KYC:
-    citations: 5
+    citations: 6
     title: 'Why context matters in vqa and reasoning: Semantic interventions for vlm input modalities'
     year: '2024'
   3L6NkggAAAAJ:5nxA0vEk-isC:
@@ -58,7 +62,7 @@ papers:
     title: Contrastive representations for unsupervised anomaly detection and localization
     year: '2023'
   3L6NkggAAAAJ:ZeXyd9-uunAC:
-    citations: 8
+    citations: 9
     title: How do deep-learning models generalize across populations? Cross-ethnicity generalization of COPD detection
     year: '2024'
   3L6NkggAAAAJ:Zph67rFs4hoC:
@@ -66,11 +70,11 @@ papers:
     title: Overcoming Common Flaws in the Evaluation of Selective Classification Systems
     year: '2024'
   3L6NkggAAAAJ:_kc_bZDykSQC:
-    citations: 29
+    citations: 32
     title: 'Navigating the Maze of Explainable AI: A Systematic Approach to Evaluating Methods and Metrics'
     year: '2024'
   3L6NkggAAAAJ:aqlVkmm33-oC:
-    citations: 3
+    citations: 4
     title: 'SURE-VQA: Systematic Understanding of Robustness Evaluation in Medical VQA Tasks'
     year: '2024'
   3L6NkggAAAAJ:dhFuZR0502QC:
@@ -86,7 +90,7 @@ papers:
     title: Translating Active Learning from Theory to Praxis for 3D Biomedical Segmentation
     year: '2026'
   3L6NkggAAAAJ:hqOjcs7Dif8C:
-    citations: 37
+    citations: 39
     title: 'Navigating the pitfalls of active learning evaluation: A systematic framework for meaningful performance assessment'
     year: '2023'
   3L6NkggAAAAJ:kNdYIx-mwKoC:
@@ -102,7 +106,7 @@ papers:
     title: 122 LungVis1. 0 enables AI-enhanced, high-resolution dosimetry and biokinetics studies in the lung
     year: '2026'
   3L6NkggAAAAJ:qjMakFHDy7sC:
-    citations: 499
+    citations: 501
     title: Guided image generation with conditional invertible neural networks
     year: '2019'
   3L6NkggAAAAJ:qxL8FJ1GzNcC:
