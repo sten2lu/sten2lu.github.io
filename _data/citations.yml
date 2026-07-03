@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-03'
 papers:
   3L6NkggAAAAJ:-f6ydRqryjwC:
     citations: 0
     title: Physics-IQ Verified
     year: '2026'
   3L6NkggAAAAJ:0EnyYjriUFMC:
-    citations: 40
+    citations: 39
     title: 'Prediction of disease severity in COPD: a deep learning approach for anomaly-based quantitative assessment of chest CT'
     year: '2024'
   3L6NkggAAAAJ:3fE2CSJIrl8C:
@@ -38,7 +38,7 @@ papers:
     title: 'Fresh Perspectives on Lung Morphometry and Pulmonary Drug Delivery: AI-powered 3D Imaging in Healthy and Fibrotic Murine Lungs'
     year: '2024'
   3L6NkggAAAAJ:L8Ckcad2t8MC:
-    citations: 0
+    citations: 1
     title: 'Finally Outshining the Random Baseline: A Simple and Effective Solution for Active Learning in 3D Biomedical Imaging'
     year: '2026'
   3L6NkggAAAAJ:M3ejUd6NZC8C:
@@ -70,7 +70,7 @@ papers:
     title: Overcoming Common Flaws in the Evaluation of Selective Classification Systems
     year: '2024'
   3L6NkggAAAAJ:_kc_bZDykSQC:
-    citations: 32
+    citations: 34
     title: 'Navigating the Maze of Explainable AI: A Systematic Approach to Evaluating Methods and Metrics'
     year: '2024'
   3L6NkggAAAAJ:aqlVkmm33-oC:
@@ -78,7 +78,7 @@ papers:
     title: 'SURE-VQA: Systematic Understanding of Robustness Evaluation in Medical VQA Tasks'
     year: '2024'
   3L6NkggAAAAJ:dhFuZR0502QC:
-    citations: 1
+    citations: 2
     title: 'nnActive: A Framework for Evaluation of Active Learning in 3D Biomedical Segmentation'
     year: '2025'
   3L6NkggAAAAJ:eQOLeE2rZwMC:
@@ -90,7 +90,7 @@ papers:
     title: Translating Active Learning from Theory to Praxis for 3D Biomedical Segmentation
     year: '2026'
   3L6NkggAAAAJ:hqOjcs7Dif8C:
-    citations: 39
+    citations: 40
     title: 'Navigating the pitfalls of active learning evaluation: A systematic framework for meaningful performance assessment'
     year: '2023'
   3L6NkggAAAAJ:kNdYIx-mwKoC:
@@ -106,7 +106,7 @@ papers:
     title: 122 LungVis1. 0 enables AI-enhanced, high-resolution dosimetry and biokinetics studies in the lung
     year: '2026'
   3L6NkggAAAAJ:qjMakFHDy7sC:
-    citations: 501
+    citations: 504
     title: Guided image generation with conditional invertible neural networks
     year: '2019'
   3L6NkggAAAAJ:qxL8FJ1GzNcC:
