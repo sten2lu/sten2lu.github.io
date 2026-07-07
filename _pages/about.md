@@ -12,7 +12,7 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-subtitle: Stealh | prev. PhD @ Heidelberg University & Helmholtz Imaging & Division of Medical Image Computing at DKFZ
+subtitle: Stealth | prev. PhD @ Heidelberg University & Helmholtz Imaging & Division of Medical Image Computing at DKFZ
 
 profile:
   align: right
