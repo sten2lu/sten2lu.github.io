@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-10'
 papers:
   3L6NkggAAAAJ:-f6ydRqryjwC:
-    citations: 0
+    citations: 1
     title: Physics-IQ Verified
     year: '2026'
   3L6NkggAAAAJ:0EnyYjriUFMC:
@@ -10,7 +10,7 @@ papers:
     title: 'Prediction of disease severity in COPD: a deep learning approach for anomaly-based quantitative assessment of chest CT'
     year: '2024'
   3L6NkggAAAAJ:3fE2CSJIrl8C:
-    citations: 12
+    citations: 11
     title: 'Capturing COPD heterogeneity: anomaly detection and parametric response mapping comparison for phenotyping on chest computed tomography'
     year: '2024'
   3L6NkggAAAAJ:4DMP91E08xMC:
@@ -18,11 +18,11 @@ papers:
     title: 'Interactive Semantic Interventions for VLMs: A Human-in-the-Loop Approach to Interpretability'
     year: Unknown Year
   3L6NkggAAAAJ:4TOpqqG69KYC:
-    citations: 8
+    citations: 9
     title: 'Why context matters in vqa and reasoning: Semantic interventions for vlm input modalities'
     year: '2024'
   3L6NkggAAAAJ:5nxA0vEk-isC:
-    citations: 43
+    citations: 41
     title: 'ValUES: A Framework for Systematic Validation of Uncertainty Estimation in Semantic Segmentation'
     year: '2024'
   3L6NkggAAAAJ:8k81kl-MbHgC:
@@ -50,7 +50,7 @@ papers:
     title: "LATEC\u2014A benchmark for large-scale attribution & attention evaluation in computer vision"
     year: Unknown Year
   3L6NkggAAAAJ:UebtZRa9Y70C:
-    citations: 14
+    citations: 15
     title: 'cOOpD: reformulating COPD classification on chest CT scans as anomaly detection using contrastive representations'
     year: '2023'
   3L6NkggAAAAJ:WF5omc3nYNoC:
@@ -62,11 +62,11 @@ papers:
     title: How do deep-learning models generalize across populations? Cross-ethnicity generalization of COPD detection
     year: '2024'
   3L6NkggAAAAJ:Zph67rFs4hoC:
-    citations: 26
+    citations: 27
     title: Overcoming Common Flaws in the Evaluation of Selective Classification Systems
     year: '2024'
   3L6NkggAAAAJ:_kc_bZDykSQC:
-    citations: 37
+    citations: 38
     title: 'Navigating the Maze of Explainable AI: A Systematic Approach to Evaluating Methods and Metrics'
     year: '2024'
   3L6NkggAAAAJ:aqlVkmm33-oC:
@@ -86,11 +86,11 @@ papers:
     title: Translating Active Learning from Theory to Praxis for 3D Biomedical Segmentation
     year: '2026'
   3L6NkggAAAAJ:hqOjcs7Dif8C:
-    citations: 40
+    citations: 41
     title: 'Navigating the pitfalls of active learning evaluation: A systematic framework for meaningful performance assessment'
     year: '2023'
   3L6NkggAAAAJ:kNdYIx-mwKoC:
-    citations: 11
+    citations: 12
     title: Embarrassingly simple scribble supervision for 3D medical segmentation
     year: '2024'
   3L6NkggAAAAJ:mVmsd5A6BfQC:
@@ -110,7 +110,7 @@ papers:
     title: 'Interactive Semantic Interventions for VLMs: A Causality-Inspired Investigation of VLM Failures'
     year: Unknown Year
   3L6NkggAAAAJ:ufrVoPGSRksC:
-    citations: 84
+    citations: 82
     title: A call to reflect on evaluation practices for failure detection in image classification
     year: '2022'
   3L6NkggAAAAJ:zYLM7Y9cAGgC:
